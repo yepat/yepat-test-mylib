@@ -30,8 +30,8 @@ export default class MTBUtils {
   /**
    * name
    */
-  public name() {
-    
+  public hello() {
+    console.log('hello world')
   }
 
 
